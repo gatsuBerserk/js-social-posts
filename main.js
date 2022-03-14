@@ -57,10 +57,10 @@ const posts = [
     {       
         "id": 6,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=535",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=30"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -68,10 +68,10 @@ const posts = [
     {
         "id": 7,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=536",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=31"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -79,10 +79,10 @@ const posts = [
     {
         "id": 8,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=537",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=32"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -90,10 +90,10 @@ const posts = [
     {
         "id": 9,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=538",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=33"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -101,10 +101,10 @@ const posts = [
     {
         "id": 10,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=539",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=34"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -112,10 +112,10 @@ const posts = [
     {
         "id": 11,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=540",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=35"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -123,10 +123,10 @@ const posts = [
     {
         "id": 12,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=541",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=36"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -134,10 +134,10 @@ const posts = [
     {
         "id": 13,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=542",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=37"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -145,10 +145,10 @@ const posts = [
     {
         "id": 14,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=543",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=38"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -156,10 +156,10 @@ const posts = [
     {
         "id": 15,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=544",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=39"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -167,10 +167,10 @@ const posts = [
     {
         "id": 16,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=545",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=40"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -178,10 +178,10 @@ const posts = [
     {
         "id": 17,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=546",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=41"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -189,10 +189,10 @@ const posts = [
     {
         "id": 18,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=547",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=42"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -200,10 +200,10 @@ const posts = [
     {
         "id": 19,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=548",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=43"
         },
         "likes": 95,
         "created": "2021-03-05"
@@ -211,13 +211,54 @@ const posts = [
     {
         "id": 20,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=534",
+        "media": "https://unsplash.it/600/400?image=549",
         "author": {
             "name": "Alessandro Sainato",
-            "image": "https://picsum.photos/seed/picsum/300/300"
+            "image": "https://unsplash.it/300/300?image=44"
         },
         "likes": 95,
         "created": "2021-03-05"
     },    
 
-];
+]; 
+
+// Invece di usare un ciclo for, (dato che abbiamo un array di aggetti) usiamo un forEach per iterare più semplicemente 
+const allPost = document.getElementById("container"); 
+     
+    posts.forEach((element) =>{
+        allPost.innerHTML += 
+        `
+        <div class="post">
+            <div class="post__header">
+                <div class="post-meta">                    
+                    <div class="post-meta__icon">
+                        <img class="profile-pic" src="${element["author"]["image"]}" alt="${element["author"]["name"]}">                    
+                    </div>
+                    <div class="post-meta__data">
+                        <div class="post-meta__author">${element["author"]["name"]}</div>
+                        <div class="post-meta__time">${element["created"]}</div>
+                    </div>                    
+                </div>
+            </div>
+            <div class="post__text">Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.</div>
+            <div class="post__image">
+                <img src="${element["media"]}" alt="">
+            </div>
+            <div class="post__footer">
+                <div class="likes js-likes">
+                    <div class="likes__cta">
+                        <a class="like-button  js-like-button" href="#" data-postid="1">
+                            <i class="like-button__icon fas fa-thumbs-up" aria-hidden="true"></i>
+                            <span class="like-button__label">Mi Piace</span>
+                        </a>
+                    </div>
+                    <div class="likes__counter">
+                        Piace a <b id="like-counter-1" class="js-likes-counter">${element["likes"]}</b> persone
+                    </div>
+                </div> 
+            </div>            
+        </div>
+
+        `;
+    });
+
