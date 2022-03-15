@@ -112,7 +112,7 @@ const posts = [
     {
         "id": 11,
         "content": "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
-        "media": "https://unsplash.it/600/400?image=540",
+        "media": "https://unsplash.it/600/400?image=522",
         "author": {
             "name": "Alessandro Sainato",
             "image": "https://unsplash.it/300/300?image=35"
@@ -247,18 +247,46 @@ const allPost = document.getElementById("container");
             <div class="post__footer">
                 <div class="likes js-likes">
                     <div class="likes__cta">
-                        <a class="like-button  js-like-button" href="#" data-postid="1">
+                        <a class="like-button  js-like-button" href="#" data-postid="${element["id"]}">
                             <i class="like-button__icon fas fa-thumbs-up" aria-hidden="true"></i>
                             <span class="like-button__label">Mi Piace</span>
                         </a>
                     </div>
                     <div class="likes__counter">
-                        Piace a <b id="like-counter-1" class="js-likes-counter">${element["likes"]}</b> persone
+                        Piace a <b id="like-counter-${element["id"]}" class="js-likes-counter">${element["likes"]}</b> persone
                     </div>
                 </div> 
             </div>            
         </div>
 
         `;
-    });
+    }); 
 
+    const likeCounters = document.querySelectorAll(`.js-likes-counter`);
+    const likeButtons = document.querySelectorAll(`.js-like-button`); 
+    const likedPosts = [];
+    
+   
+    for (let i = 0 ; i < likeButtons.length ; i++){
+        const element = likeButtons[i];
+        element.addEventListener('click', (event) => {
+            event.preventDefault();
+    
+            if ( element.classList.contains('like-button--liked') ){
+                element.classList.remove('like-button--liked');
+    
+                // mi prendo il counter attuale dei like
+                likeCounters[i].innerHTML = parseInt(likeCounters[i].innerHTML) - 1;
+                likedPosts.splice( likedPosts.indexOf(likeButtons[i].getAttribute('data-postid') ));
+    
+            } else {
+                element.classList.add('like-button--liked');
+    
+                // mi prendo il counter attuale dei like
+                likeCounters[i].innerHTML = parseInt(likeCounters[i].innerHTML) + 1;
+                likedPosts.push(likeButtons[i].getAttribute('data-postid'));
+            }console.log(likedPosts)
+        })
+    }; 
+
+    
